@@ -10,11 +10,11 @@ h1 {
   background-color: hsla(0,100%,100%,0.5);
   color: black;
   font-family: Arial, Verdana, sans-serif;
-  padding: inherit;
+  padding: 10px;
 }
 
 p {
-  padding: 5px;
+  padding: 10px;
   margin: 0px;
 }
 
